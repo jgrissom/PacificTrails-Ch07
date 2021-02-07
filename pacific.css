@@ -60,6 +60,12 @@ h3 {
 }
 ul { list-style-image: url(marker.gif); }
 dt { color: #002171; }
+section {
+  float: left;
+  width: 33%;
+  padding-left: 2em;
+  padding-right: 2em;
+}
 footer { 
   font-size: 75%;
   font-style: italic;

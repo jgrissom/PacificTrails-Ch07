@@ -33,11 +33,12 @@ h1 {
   font-family: Georgia, "Times New Roman", serif;
 }
 nav { 
-  background-color: #ffffff; 
   font-weight: bold;
-  text-align: center;
-  padding: 1em;
+  font-size: 120%;
+  padding: 1.5em;
   margin-top: 0;
+  float: left;
+  width: 160px;
 }
 nav a { text-decoration: none; }
 main { 

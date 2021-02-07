@@ -77,12 +77,14 @@ footer {
 }
 #yurthero { 
   height: 300px;
+  margin-left: 190px;
   background-image: url(yurt.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%; 
 }
 #trailhero { 
   height: 300px;
+  margin-left: 190px;
   background-image: url(trail.jpg);
   background-repeat: no-repeat;
   background-size: 100% 100%; 
